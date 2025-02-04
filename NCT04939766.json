@@ -1,0 +1,288 @@
+{
+  "studies": [
+    {
+      "protocolSection": {
+        "identificationModule": {
+          "nctId": "NCT04939766",
+          "orgStudyIdInfo": {
+            "id": "2021-A00005-36"
+          },
+          "organization": {
+            "fullName": "VitalAire",
+            "class": "INDUSTRY"
+          },
+          "briefTitle": "Impact of the Use of a Closed-loop Insulin Therapy on the Burden of the Diabetes and the Quality of Life",
+          "officialTitle": "Impact of the Use of a Closed-loop Insulin Therapy on the Burden of the Diabetes and the Quality of Life in Type 1 Diabetic Patients With Continuous Glucose Monitoring (CGM)",
+          "acronym": "IMPLIQUE"
+        },
+        "statusModule": {
+          "statusVerifiedDate": "2021-06",
+          "overallStatus": "UNKNOWN",
+          "lastKnownStatus": "NOT_YET_RECRUITING",
+          "expandedAccessInfo": {
+            "hasExpandedAccess": false
+          },
+          "startDateStruct": {
+            "date": "2021-06",
+            "type": "ESTIMATED"
+          },
+          "primaryCompletionDateStruct": {
+            "date": "2022-09",
+            "type": "ESTIMATED"
+          },
+          "completionDateStruct": {
+            "date": "2022-12",
+            "type": "ESTIMATED"
+          },
+          "studyFirstSubmitDate": "2021-06-16",
+          "studyFirstSubmitQcDate": "2021-06-24",
+          "studyFirstPostDateStruct": {
+            "date": "2021-06-25",
+            "type": "ACTUAL"
+          },
+          "lastUpdateSubmitDate": "2021-06-24",
+          "lastUpdatePostDateStruct": {
+            "date": "2021-06-25",
+            "type": "ACTUAL"
+          }
+        },
+        "sponsorCollaboratorsModule": {
+          "responsibleParty": {
+            "type": "SPONSOR"
+          },
+          "leadSponsor": {
+            "name": "VitalAire",
+            "class": "INDUSTRY"
+          }
+        },
+        "oversightModule": {
+          "oversightHasDmc": true,
+          "isFdaRegulatedDrug": false,
+          "isFdaRegulatedDevice": false,
+          "isUsExport": false
+        },
+        "descriptionModule": {
+          "briefSummary": "The use by diabetes patients of real-time Continuous Glucose Monitoring (CGM) system is becoming widespread and has changed diabetic practice. Automated closed-loop (CL) insulin therapy has come of age. This major technological advance is expected to significantly improve the quality of care for adults, adolescents and children with type 1 diabetes.\n\nQuestions remain about patients' perception and acceptance on this automatisation of the management of their glycemic variability.\n\nThus this study is built to evaluate the impact of the activation of the closed-loop on quality of life and burden of their diabetes in patients with type 1 diabetes under CSII.",
+          "detailedDescription": "This cohort study will follow patients with type 1 diabetes undergoing under continuous subcutaneous insulin infusion (CSII) with Continuous Glucose Monitoring (GCM). After inclusion visit, there's a 20 days' period to assess their quality of life and perception of the burden of their diabetes and confirm their eligibility to the closer-loop. During this 20 days' period, patients should complete all the self-questionnaires.\n\nThen, during the 2d visit, the closed-loop will be activated by the diabetologist for a 6 months follow-up including six visits with 3 phone contacts (at week 1, week 2 and week 6) then 2 direct visits at 3 months and 6 months.\n\nThe 3 phone contacts are mainly planned, as recommended in French guidelines, to ensure the good use of the device and to detect or prevent any unexpected events.\n\nThe 2 visits at 3 and 6 months, are planned to assess the glycemic variability using Continuous Glucose Monitoring data and to collect perception of the patients via the 2 main criteria self questionnaires (Quality of life and burden to be filled-in by patients at 3 and 6 months) and all perception dimensions by all the self questionnaires.\n\nMain results will provide data on the evolution of quality of life and burden of diabetes by comparison between scores at 6 months and baseline, and evolution of glycemic variability."
+        },
+        "conditionsModule": {
+          "conditions": [
+            "Quality of Life",
+            "Burden, Dependency"
+          ],
+          "keywords": [
+            "Continuous subcutaneous insulin infusion",
+            "Diabetes type 1",
+            "Closed loop"
+          ]
+        },
+        "designModule": {
+          "studyType": "INTERVENTIONAL",
+          "phases": [
+            "NA"
+          ],
+          "designInfo": {
+            "allocation": "NA",
+            "interventionModel": "SINGLE_GROUP",
+            "interventionModelDescription": "Longitudinal cohort study with a 6 months follow-up evaluation evaluating in type 1 diabetic patients under CSII the impact of closed loop use on quality of life and burden using different validated self questionnaires.",
+            "primaryPurpose": "TREATMENT",
+            "maskingInfo": {
+              "masking": "NONE"
+            }
+          },
+          "enrollmentInfo": {
+            "count": 250,
+            "type": "ESTIMATED"
+          }
+        },
+        "armsInterventionsModule": {
+          "armGroups": [
+            {
+              "label": "Type 1 diabetic patients under CSII eligible for closed loop use",
+              "type": "OTHER",
+              "description": "Diabetic patients age 13 or above under CSII with continuous glucose monitoring matching eligibility criteria for the use of a closed loop during a 6 months period. During the study, 4 physical appointments with a diabetologist and 3 phone contacts are anticipated.",
+              "interventionNames": [
+                "Device: Activation of a closed loop device in an insulin pump device with GCM"
+              ]
+            }
+          ],
+          "interventions": [
+            {
+              "type": "DEVICE",
+              "name": "Activation of a closed loop device in an insulin pump device with GCM",
+              "description": "After a run-in period of 20 days to co,firm eligibility, the closed loop is activated and patients are followed for 6 months by their diabetologists.",
+              "armGroupLabels": [
+                "Type 1 diabetic patients under CSII eligible for closed loop use"
+              ]
+            }
+          ]
+        },
+        "outcomesModule": {
+          "primaryOutcomes": [
+            {
+              "measure": "Change in Quality of life following activation of closed loop",
+              "description": "Validated self questionnaire : Audit of Diabetes dependant quality of life (ADQQoL) with 19 items Lower scores reflect worsening quality of life",
+              "timeFrame": "Score comparison between Baseline and 6 months after activation of closed loop"
+            },
+            {
+              "measure": "Change in burden of diabetes following activation of closed loop",
+              "description": "Validated self questionnaire : Problem Areas s in Diabetes (PAID) with 20 items. Higher scores reflect greater emotional distress.",
+              "timeFrame": "Score comparison between Baseline and 6 months after activation of closed loop"
+            }
+          ],
+          "secondaryOutcomes": [
+            {
+              "measure": "Perception of patients",
+              "description": "Different validated self questionnaires on well-being, Fatigue, Anxiety and Depression, Physical activity, Sleep, Fear of hypoglycemia and personality.",
+              "timeFrame": "Before and 6 months after activation of closed loop"
+            },
+            {
+              "measure": "Glycemic variability",
+              "description": "Collection of symptomatic hypoglycemic and hyperglycemic events. Data from GCM including time in range, time above range, time below range and glycemic variability coefficient.",
+              "timeFrame": "Before, 3 months and 6 months after activation of closed loop"
+            }
+          ]
+        },
+        "eligibilityModule": {
+          "eligibilityCriteria": "Inclusion Criteria:\n\n* Type 1 diabetic patients undergoing a CSII therapy for at least 6 months and using Tandem t:slim X2 for at least 4 weeks.\n* Patient using CGM for 6 months including Dexcon G6 for at least 4 weeks.\n* Eligible patient (according to French Society recommendations) for activation of the closed loop\n* Informed Patient accepting the computer processing of their medical data.\n* Patient correctly completing the 2 main self questionnaires\n* Patient with HbA1c below 11%\n\nExclusion Criteria:\n\n* Pregnancy or Lactation during the study\n* Patient with a diabetic retinopathy not controlled by laser\n* Patient suffering from a disease or undertaking a treatment altering glucose metabolism",
+          "healthyVolunteers": false,
+          "sex": "ALL",
+          "minimumAge": "13 Years",
+          "stdAges": [
+            "CHILD",
+            "ADULT",
+            "OLDER_ADULT"
+          ]
+        },
+        "contactsLocationsModule": {
+          "centralContacts": [
+            {
+              "name": "Emmanuelle MORRY",
+              "role": "CONTACT",
+              "phone": "0149694515",
+              "email": "emmanuelle.morry@vitalaire.fr"
+            },
+            {
+              "name": "Cecile CABALLOL",
+              "role": "CONTACT",
+              "email": "cecile.caballol@vitalaire.fr"
+            }
+          ],
+          "overallOfficials": [
+            {
+              "name": "Yves Reznik, MD PHD",
+              "affiliation": "University Hospital, Caen",
+              "role": "STUDY_CHAIR"
+            }
+          ]
+        },
+        "referencesModule": {
+          "references": [
+            {
+              "pmid": "33152550",
+              "type": "BACKGROUND",
+              "citation": "Tubiana-Rufi N, Schaepelynck P, Franc S, Chaillous L, Joubert M, Renard E, Reznik Y, Abettan C, Bismuth E, Beltrand J, Bonnemaison E, Borot S, Charpentier G, Delemer B, Desserprix A, Durain D, Farret A, Filhol N, Guerci B, Guilhem I, Guillot C, Jeandidier N, Lablanche S, Leroy R, Melki V, Munch M, Penfornis A, Picard S, Place J, Riveline JP, Serusclat P, Sola-Gazagnes A, Thivolet C, Hanaire H, Benhamou PY; SFD SFD Paramedical SFE SFEDP AJD FFD FENAREDIAM and CNP-EDN. Practical implementation of automated closed-loop insulin delivery: A French position statement. Diabetes Metab. 2021 May;47(3):101206. doi: 10.1016/j.diabet.2020.10.004. Epub 2020 Nov 2."
+            }
+          ]
+        },
+        "ipdSharingStatementModule": {
+          "ipdSharing": "NO"
+        }
+      },
+      "derivedSection": {
+        "miscInfoModule": {
+          "versionHolder": "2024-10-31"
+        },
+        "conditionBrowseModule": {
+          "browseLeaves": [
+            {
+              "id": "M7115",
+              "name": "Diabetes Mellitus",
+              "relevance": "LOW"
+            },
+            {
+              "id": "M7117",
+              "name": "Diabetes Mellitus, Type 1",
+              "relevance": "LOW"
+            },
+            {
+              "id": "T6034",
+              "name": "Quality of Life",
+              "asFound": "Quality of Life",
+              "relevance": "HIGH"
+            }
+          ],
+          "browseBranches": [
+            {
+              "abbrev": "BC18",
+              "name": "Nutritional and Metabolic Diseases"
+            },
+            {
+              "abbrev": "BC19",
+              "name": "Gland and Hormone Related Diseases"
+            },
+            {
+              "abbrev": "All",
+              "name": "All Conditions"
+            },
+            {
+              "abbrev": "BC20",
+              "name": "Immune System Diseases"
+            },
+            {
+              "abbrev": "BXM",
+              "name": "Behaviors and Mental Disorders"
+            }
+          ]
+        },
+        "interventionBrowseModule": {
+          "meshes": [
+            {
+              "id": "D007328",
+              "term": "Insulin"
+            }
+          ],
+          "ancestors": [
+            {
+              "id": "D007004",
+              "term": "Hypoglycemic Agents"
+            },
+            {
+              "id": "D045505",
+              "term": "Physiological Effects of Drugs"
+            }
+          ],
+          "browseLeaves": [
+            {
+              "id": "M10365",
+              "name": "Insulin",
+              "asFound": "Use",
+              "relevance": "HIGH"
+            },
+            {
+              "id": "M173166",
+              "name": "Insulin, Globin Zinc",
+              "relevance": "LOW"
+            },
+            {
+              "id": "M10054",
+              "name": "Hypoglycemic Agents",
+              "relevance": "LOW"
+            }
+          ],
+          "browseBranches": [
+            {
+              "abbrev": "Hypo",
+              "name": "Hypoglycemic Agents"
+            },
+            {
+              "abbrev": "All",
+              "name": "All Drugs and Chemicals"
+            }
+          ]
+        }
+      },
+      "hasResults": false
+    }
+  ]
+}
